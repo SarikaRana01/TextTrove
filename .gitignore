@@ -1,0 +1,18 @@
+# ✅ Hide secrets
+.env
+
+# 🐍 Python cache files
+_pycache_/
+*.py[cod]
+
+# 🧪 Virtual environments
+venv/
+env/
+
+# 🛠 IDE/editor settings
+.vscode/
+.idea/
+
+# 💻 OS-generated files
+.DS_Store
+Thumbs.db
